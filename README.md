@@ -63,7 +63,7 @@
       <br><sub><b>GitHub</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
       <br><sub><b>Git</b></sub>
     </td>
   </tr>
