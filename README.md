@@ -35,6 +35,14 @@
       <img src="https://img.icons8.com/ios-filled/50/ca4245/react-native.png" width="40" height="40" />
       <br><sub><b>React Router</b></sub>
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" />
+      <br><sub><b>CSS3</b></sub>
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -46,12 +54,17 @@
       <br><sub><b>Sass</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" 
+       height="48" />
       <br><sub><b>Bootstrap</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" />
       <br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48/>
+      <br><sub><b>Git</b></sub>
     </td>
   </tr>
 </table>
