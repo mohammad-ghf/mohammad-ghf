@@ -10,8 +10,7 @@
 ### 🧠 About Me
 
 - 🎓 I'm a Computer Science student & a frontend developer  
-- 🛠️ I work mostly with **React**, **Tailwind**, **Redux**, and **JavaScript**  
-- 🌱 I’m currently learning **Next.js** and advanced **TypeScript**  
+- 🛠️ I work mostly with **React**, **Tailwind**, **Redux**, and **JavaScript** 
 - 📫 How to reach me: **mahdi.ghaffari2584@gmail.com**
 
 ---
@@ -36,10 +35,6 @@
       <img src="https://img.icons8.com/ios-filled/50/ca4245/react-native.png" width="40" height="40" />
       <br><sub><b>React Router</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-axios-a-javascript-library-used-to-make-http-requests-logo-color-tal-revivo.png" width="40" height="40" />
-      <br><sub><b>Axios</b></sub>
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -60,17 +55,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-ghf&show_icons=true&theme=radical" alt="stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-ghf&theme=radical" height="170" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
