@@ -12,7 +12,7 @@
 - 🎓 I'm a Computer Science student & a frontend developer  
 - 🛠️ I work mostly with **React**, **Tailwind**, **Redux**, and **JavaScript**  
 - 🌱 I’m currently learning **Next.js** and advanced **TypeScript**  
-- 📫 How to reach me: **mohammad.ghafari.dev@gmail.com**
+- 📫 How to reach me: **mahdi.ghaffari2584@gmail.com**
 
 ---
 
@@ -42,10 +42,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-zustand-state-management-tool-for-react-logo-shadow-tal-revivo.png" width="40" height="40" />
-      <br><sub><b>Zustand</b></sub>
-    </td>
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="48" height="48" />
       <br><sub><b>Tailwind</b></sub>
