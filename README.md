@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammadmahdi Ghafari</h1>
-<p align="center">A Front-End Developer passionate about building beautiful and functional web interfaces</p>
+<p align="center">A Front-End Developer</p>
 
 ---
 
