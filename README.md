@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mahdi Ghafari</h1>
-<h3 align="center">A passionate Frontend Developer from Iran</h3>
+<h3 align="center">A Frontend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=React+Developer+%F0%9F%92%BB;Frontend+Engineer+%F0%9F%93%88;Always+Learning+New+Things+%F0%9F%93%9A;Let's+Build+Cool+Stuff+Together+%F0%9F%9A%80" alt="Typing SVG" />
