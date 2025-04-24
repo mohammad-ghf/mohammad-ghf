@@ -68,11 +68,3 @@
     </td>
   </tr>
 </table>
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:mohammad.ghafari.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" width="40" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" /></a>
-  <a href="https://mohammad-ghf.github.io"><img src="https://img.icons8.com/external-flat-juicy-fish/60/external-portfolio-web-design-flat-flat-juicy-fish.png" width="40" /></a>
-</p>
