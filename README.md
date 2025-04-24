@@ -66,5 +66,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
       <br><sub><b>Git</b></sub>
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
   </tr>
 </table>
