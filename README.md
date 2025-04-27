@@ -32,10 +32,6 @@
       <br><sub><b>Redux</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/ios-filled/50/ca4245/react-native.png" width="40" height="40" />
-      <br><sub><b>React Router</b></sub>
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
       <br><sub><b>HTML5</b></sub>
     </td>
